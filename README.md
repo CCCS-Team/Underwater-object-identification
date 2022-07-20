@@ -2,6 +2,9 @@
 
 ![alt text](https://github.com/CCCS-Team/Underwater-object-identification/blob/main/imag/Picture1.png)
 
+
+-This project was supported by Jeffress Memorial Trust as an award to Norfolk State University.
+
 - Objectives:
   - To design deep learning model to detect trash in underwater environment.
   - To test images collected from rivers/streams in Virginia Beach and Chesapeake in Virginia using BlueRov2 Robots.
